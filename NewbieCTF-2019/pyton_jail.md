@@ -1,4 +1,4 @@
-The challenge is composed of a python escape shell. When connecting to the server you are dropped into a python shell, but there are restrictions to excaping.
+The challenge is composed of a python escape shell. When connecting to the server you are dropped into a python shell, but there are restrictions to escaping.
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
