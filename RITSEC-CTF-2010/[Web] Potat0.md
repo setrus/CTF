@@ -1,3 +1,18 @@
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Potat0
+158
+
+http://ctfchallenges.ritsec.club:8003/
+
+Flag format is RS_CTF{}
+
+Author: Pablo Potat0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
 You are able to upload files to the server:
 
 ![Alt Tag](https://raw.githubusercontent.com/setrus/CTF/master/RITSEC-CTF-2010/Images/potato1.png)
